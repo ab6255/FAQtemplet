@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './FAQ.css';
+import 'FAQ.css';
 
 function FAQ() {
   const [faqItems, setFaqItems] = useState([]);
