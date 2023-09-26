@@ -1,4 +1,3 @@
-# Auto detect text files and perform LF normalization
 import React, { useState } from 'react';
 import './FAQ.css';
 
@@ -46,4 +45,3 @@ function FAQ() {
 }
 
 export default FAQ;
-* text=auto
